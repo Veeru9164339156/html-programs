@@ -1,0 +1,35 @@
+.o{
+    background : url(https://c4.wallpaperflare.com/wallpaper/50/847/763/cyan-color-burst-wallpaper-preview.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.op{
+    background : url(https://quntnex.com/wp-content/uploads/2024/05/banner-quntnex.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+}
+.p{
+    background-color: rgb(252, 15, 232);
+    color: rgb(229, 252, 28);
+    font-style:normal;
+}
+.s{
+    color:red;
+    font-size:x-large;
+}
+ol{
+    color: black;
+    font-size: xx-large;
+}
+.tt{
+    background-color: blueviolet;
+}
+.hh{
+    background-color: red;
+}
+.img{
+    background : url(https://t4.ftcdn.net/jpg/05/37/15/09/360_F_537150961_VZG4XAlRfOgOtnOlehSyn6ODtKAR5SMz.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
